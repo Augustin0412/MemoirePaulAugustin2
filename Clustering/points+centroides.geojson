@@ -4162,7 +4162,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_0",
                 "cluster": 0
             },
             "geometry": {
@@ -4176,7 +4176,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_1",
                 "cluster": 1
             },
             "geometry": {
@@ -4190,7 +4190,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_2",
                 "cluster": 2
             },
             "geometry": {
@@ -4204,7 +4204,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_3",
                 "cluster": 3
             },
             "geometry": {
@@ -4218,7 +4218,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_4",
                 "cluster": 4
             },
             "geometry": {
@@ -4232,7 +4232,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_5",
                 "cluster": 5
             },
             "geometry": {
@@ -4246,7 +4246,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centro\u00efde",
+                "name": "Centro\u00efde_6",
                 "cluster": 6
             },
             "geometry": {
