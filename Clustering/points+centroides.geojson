@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 Le Bois",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -19,7 +19,7 @@
             "type": "Feature",
             "properties": {
                 "name": "American Hospital of Paris",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -33,7 +33,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Jeanne de Flandre",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Roger Salengro",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +61,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Valence",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -75,7 +75,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Henri Mondor",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Institut Calot",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +117,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital europ\u00e9en",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Henri Becquerel",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +159,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Annecy-Genevois",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +173,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Saint-Joseph Saint-Luc",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -187,7 +187,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Louis Mourier",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +201,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Foch",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +215,7 @@
             "type": "Feature",
             "properties": {
                 "name": "CHU Nord de Grenoble",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +243,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Institut Coeur Poumon",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +257,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Niort",
-                "cluster": 2
+                "cluster": 3
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +271,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Priv\u00e9 d'Antony",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +285,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Mathilde",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +299,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier de Narbonne",
-                "cluster": 3
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +313,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Tenon",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +327,7 @@
             "type": "Feature",
             "properties": {
                 "name": "GHU Paris Psychiatrie & neurosciences - site Sainte-Anne",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +341,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fondation ophtalmologique Adolphe de Rothschild",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +355,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Cochin",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +369,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Institut Mutualiste Montsouris",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +383,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Europ\u00e9en Georges Pompidou",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +397,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Armand-Trousseau",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -411,7 +411,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Lariboisi\u00e8re",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +425,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier de Roanne",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -452,22 +452,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centre hospitalier Notre-Dame de la Mis\u00e9ricorde",
-                "cluster": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.7329613,
-                    41.9230321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Centre hospitalier intercommunal de Cr\u00e9teil",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +509,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Fontainebleau",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +523,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique du Mill\u00e9naire",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +551,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Saint-Louis",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +565,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Perpignan",
-                "cluster": 3
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -607,7 +593,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Chirurgical Marie Lannelongue",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +607,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Intercommunal Lucie et Raymond Aubrac",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +621,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Gabriel Montpied",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -649,7 +635,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Meulan-en-Yvelines",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -677,7 +663,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Bretonneau",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -691,7 +677,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Paul Brousse",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +691,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Robert Debr\u00e9",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +705,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Bic\u00eatre",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +719,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital d'instruction des arm\u00e9es Sainte-Anne",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -747,7 +733,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Avicenne",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +747,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier intercommunal Fr\u00e9jus Saint-Rapha\u00ebl",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -775,7 +761,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Dieppe",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -803,7 +789,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Longjumeau",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -831,7 +817,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital \u00c9mile Muller",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -873,7 +859,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de la Conception",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -887,7 +873,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Simone Veil",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +887,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier intercommunal Andr\u00e9 Gr\u00e9goire",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -915,7 +901,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Jean Verdier",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -929,7 +915,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Hopital Beaujon",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -957,7 +943,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital d'Instruction des Arm\u00e9es B\u00e9gin",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -971,7 +957,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -985,7 +971,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Bichat-Claude Bernard",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +985,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de B\u00e9ziers",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1027,7 +1013,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier intercommunal de Poissy",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1041,7 +1027,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Delafontaine",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1055,7 +1041,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Jacques Lacarin",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1069,7 +1055,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Civil",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1069,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 les Franciscaines",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1097,7 +1083,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Sambre-Avesnois",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1111,7 +1097,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Nord Ouest Villefranche",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1125,7 +1111,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de Hautepierre",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1139,7 +1125,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier R\u00e9gional Universitaire de Lille",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1153,7 +1139,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Cambrai",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1167,7 +1153,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Trousseau",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1181,7 +1167,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Central",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1195,7 +1181,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Charles Nicolle",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1209,7 +1195,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier intercommunal Robert Ballanger",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1237,7 +1223,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pial priv\u00e9 du Vert-Galant",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1251,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Fran\u00e7ois Quesnay",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1279,7 +1265,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Ambroise Par\u00e9",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1307,7 +1293,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Pasteur",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1321,7 +1307,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Haguenau",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1349,7 +1335,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Troyes",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1363,7 +1349,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Lons-le-Saunier",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1377,7 +1363,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de M\u00e2con",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1391,7 +1377,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 de Parly 2 Le Chesnay",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1433,7 +1419,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Ard\u00e8che Nord",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1461,7 +1447,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d\u2019Auxerre",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1475,7 +1461,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier du Pays d'Aix",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1503,7 +1489,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Mutualiste Chirurgicale",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1517,7 +1503,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Priv\u00e9 de la Loire",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1531,7 +1517,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Loz\u00e8re",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1559,7 +1545,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Jacques Monod",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1573,7 +1559,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Aubagne",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1601,7 +1587,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 Jacques Cartier",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1615,7 +1601,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Sainte-Catherine",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1615,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique des Ormeaux",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1657,7 +1643,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Versailles",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1671,7 +1657,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Creil",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1699,7 +1685,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Moulins-Yzeure",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1713,7 +1699,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Lens",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1727,7 +1713,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Croix Saint-Simon",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1741,7 +1727,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 La Casamance",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1755,7 +1741,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Genevi\u00e8ve de Gaulle Anthonioz",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -1769,7 +1755,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Grand H\u00f4pital de l'Est Francilien - Site de Marne-la-Vall\u00e9e",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1797,7 +1783,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Saint-Philibert",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1811,7 +1797,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Meaux",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1839,7 +1825,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital d'instruction des arm\u00e9es Laveran",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1853,7 +1839,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Necker Enfants Malades",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1867,7 +1853,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Mont\u00e9limar",
-                "cluster": 5
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1895,7 +1881,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de Fleyriat",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -1923,7 +1909,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Arras",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1937,7 +1923,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique de l'Europe",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1951,7 +1937,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Saint-Antoine",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1965,7 +1951,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Avignon",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -1979,7 +1965,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Saint-Camille",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -1993,7 +1979,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de la Croix-Rousse",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2021,7 +2007,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre M\u00e9dico-Chirurgical de l'Europe",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2035,7 +2021,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Saint-Quentin",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2049,7 +2035,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Intercommunal des Alpes du Sud",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2077,7 +2063,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Belledonne",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2091,7 +2077,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 du Val d'Yerres",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2105,7 +2091,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital d'Instruction des Arm\u00e9es Percy",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2119,7 +2105,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Orsay",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2133,7 +2119,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Fondation Lenval - H\u00f4pital pour Enfants",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2189,7 +2175,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 Claude Galien",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2203,7 +2189,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Saint-Nicolas",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -2217,7 +2203,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Bel-Air",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -2245,7 +2231,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Alpes L\u00e9man",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2273,7 +2259,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Fran\u00e7ois Mitterrand",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2287,7 +2273,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Laon",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2301,7 +2287,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Lapeyronie",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2315,7 +2301,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Estaing",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2343,7 +2329,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Elbeuf",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2357,7 +2343,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Dunkerque",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2371,7 +2357,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Sainte-Musse",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2385,7 +2371,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Dreux",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2399,7 +2385,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Beauregard Vert Coteau",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2441,7 +2427,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier de Valenciennes",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2455,7 +2441,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Armenti\u00e8res",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2483,7 +2469,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de B\u00e9thune",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2497,7 +2483,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital \u00c9douard Herriot",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2511,7 +2497,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital d'instruction des arm\u00e9es Desgenettes",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2525,7 +2511,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Femme-M\u00e8re-Enfant",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2539,7 +2525,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital neurologique Pierre Wertheimer",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2553,7 +2539,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique du C\u00e8dre",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2567,7 +2553,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 de Marne-Chantereine",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2581,7 +2567,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier William Morey",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2595,7 +2581,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Vesoul",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -2609,7 +2595,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Pierre B\u00e9r\u00e9govoy",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2623,7 +2609,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Compi\u00e8gne",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2637,7 +2623,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Alen\u00e7on",
-                "cluster": 2
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2651,7 +2637,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Institut Paoli-Calmettes",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2665,7 +2651,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Digne-les-Bains",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2679,7 +2665,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Convert",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2693,7 +2679,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Clocheville",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2707,7 +2693,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Raymond Poincar\u00e9",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2721,7 +2707,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier M\u00e9tropole Savoie",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -2735,7 +2721,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Robert-Schuman",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -2749,7 +2735,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Sens",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2763,7 +2749,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de la R\u00e9gion de Saint-Omer",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2777,7 +2763,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Cardiologique du Nord",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2791,7 +2777,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Arles",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2805,7 +2791,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Saint-Joseph",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2819,7 +2805,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Tourcoing",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2833,7 +2819,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Roubaix",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2847,7 +2833,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Abbeville",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2861,7 +2847,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Louis Pasteur",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2875,7 +2861,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Piti\u00e9-Salp\u00eatri\u00e8re",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2889,7 +2875,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Cannes",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2903,7 +2889,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Claude Huriez",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2917,7 +2903,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Vert-c\u00f4teau",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2931,7 +2917,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Blois",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2945,7 +2931,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier de Rambouillet",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -2959,7 +2945,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier universitaire de Nice",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -2973,7 +2959,7 @@
             "type": "Feature",
             "properties": {
                 "name": "CHRU de Nancy Brabois",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -2987,7 +2973,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Montlu\u00e7on",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -3015,7 +3001,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Priv\u00e9 R\u00e9sidence du Parc",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3029,7 +3015,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Bouchard",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3043,7 +3029,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Institut Arnault Tzanck",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3057,7 +3043,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'\u00c9tampes",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3071,7 +3057,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier \u00c9mile Durkheim",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3071,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Salon-de-Provence",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3099,7 +3085,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique de la Sauvegarde",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -3169,7 +3155,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier \u00c9mile Roux",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -3183,7 +3169,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique du Parc",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3197,7 +3183,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Argenteuil",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3225,7 +3211,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Nord",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -3239,7 +3225,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Robert Bisson",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3253,7 +3239,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Ch\u00e2lons-en-Champagne",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -3267,7 +3253,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 Clairval",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3281,7 +3267,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Tous Vents",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3295,7 +3281,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique les Sources",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3309,7 +3295,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pitaux du L\u00e9man",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -3323,7 +3309,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Ren\u00e9 Dubos",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3337,7 +3323,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de la Timone",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3365,7 +3351,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Manchester",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -3379,7 +3365,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Pierre Oudot",
-                "cluster": 5
+                "cluster": 4
             },
             "geometry": {
                 "type": "Point",
@@ -3435,7 +3421,7 @@
             "type": "Feature",
             "properties": {
                 "name": "CHU de Reims",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3449,7 +3435,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Polyclinique de Gentilly",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -3463,7 +3449,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de Saint-Avold",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -3547,7 +3533,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier du Bassin de Thau",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3575,7 +3561,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Eure-Seine",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3589,7 +3575,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Nouvelle Clinique de Tours Plus",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3603,7 +3589,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Soissons",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3617,7 +3603,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Al\u00e8s-C\u00e9vennes",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3617,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Calais",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3645,7 +3631,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Beauvais",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3659,7 +3645,7 @@
             "type": "Feature",
             "properties": {
                 "name": "CHU Amiens Sud",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3687,7 +3673,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier Sud Francilien",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3701,7 +3687,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 de Provence",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3715,7 +3701,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Douai",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3729,7 +3715,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier de l'Arrondissement de Montreuil-sur-Mer",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3743,7 +3729,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Boulogne-sur-Mer",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3757,7 +3743,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Melun",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3771,7 +3757,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Provins",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3785,7 +3771,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital priv\u00e9 de l'Ouest Parisien",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3799,7 +3785,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Europ\u00e9en de Paris",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3813,7 +3799,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Groupe hospitalier intercommunal Le Raincy-Montfermeil",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3827,7 +3813,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Antoine B\u00e9cl\u00e8re",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3841,7 +3827,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier Jacques C\u0153ur",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -3883,7 +3869,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier d'Antibes - Juan-les-Pins",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3939,7 +3925,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Saint-Pierre",
-                "cluster": 3
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3953,7 +3939,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de la Drac\u00e9nie",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3966,22 +3952,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Centre hospitalier de Bastia",
-                "cluster": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.4273076,
-                    42.6814608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Centre Hospitalier de Grasse - Site Clavary",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -3995,7 +3967,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Pasteur",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -4009,7 +3981,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Martigues",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -4023,7 +3995,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Institut Gustave Roussy",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4037,7 +4009,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Polyclinique de Reims Bezannes",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4051,7 +4023,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de Ch\u00e2teau-Thierry",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4065,7 +4037,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique du Val d'Or",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4079,7 +4051,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre Hospitalier de Gonesse",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4093,7 +4065,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital de Mercy",
-                "cluster": 4
+                "cluster": 5
             },
             "geometry": {
                 "type": "Point",
@@ -4107,7 +4079,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Centre hospitalier de l'agglom\u00e9ration montargoise",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4121,7 +4093,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Saint-Hilaire",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4135,7 +4107,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Clinique Geoffroy Saint-Hilaire",
-                "cluster": 1
+                "cluster": 0
             },
             "geometry": {
                 "type": "Point",
@@ -4149,7 +4121,7 @@
             "type": "Feature",
             "properties": {
                 "name": "H\u00f4pital Gui de Chauliac",
-                "cluster": 0
+                "cluster": 1
             },
             "geometry": {
                 "type": "Point",
@@ -4168,8 +4140,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.654177971428571,
-                    43.46963701666667
+                    2.268615294615384,
+                    49.13973150076923
                 ]
             }
         },
@@ -4182,8 +4154,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.2855471333333335,
-                    49.14526857131783
+                    5.292113795454545,
+                    43.50662765909091
                 ]
             }
         },
@@ -4196,8 +4168,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -2.0898685541666655,
-                    48.05544763333334
+                    -2.2627067999999997,
+                    48.117633022727276
                 ]
             }
         },
@@ -4210,8 +4182,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.8069085217391307,
-                    44.21621856739131
+                    0.634117340909091,
+                    44.35593068409091
                 ]
             }
         },
@@ -4224,8 +4196,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    6.366201865,
-                    48.71504104
+                    4.683624474285714,
+                    45.870407557142855
                 ]
             }
         },
@@ -4238,8 +4210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.686381458333333,
-                    45.83425412222222
+                    6.366201865,
+                    48.71504104
                 ]
             }
         }
