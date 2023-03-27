@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<title>TP9</title>
+		<script type="text/javascript" src="d3.v7.min.js"></script>
+        <link rel="stylesheet" href="leaflet.css" /> 
+        <script src="leaflet.js"></script>
+        <script type="text/javascript" src="jquery-3.6.3.min.js"></script>
+        <link rel="stylesheet" href="MarkerCluster.css" /> 
+        <link rel="stylesheet" href="MarkerCluster.Default.css" /> 
+        <script src="leaflet.markercluster.js"></script> 
+        <script src="leaflet-heat.js"></script>
+</script>
+	</head>
+	<body>
+        <div id="divmap" style="border: 3px solid gray; width: 900px; height: 500px;">
+
+        </div>
+        <script>
+            var map = L.map('divmap');
+            map.setView([42.3584300, -71.0597700], 13);
+
+            L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',{ attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>', maxZoom:17, minZoom:9 }).addTo(map);
+
+            var heatPoints = [ 
+                [42.36, -71.07, 10], 
+                [42.357, -71.07, 10], 
+                [42.37, -71.06, 10], 
+                [42.365, -71.07, 10], 
+                [42.365, -71.075, 10], 
+                [42.35, -71.08, 10] 
+            ]; 
+
+            $.ajax({ 
+                url: "rodents.geojson",
+                dataType: "json",
+                success: function(rodents){ 
+                    var heatPoints = rodents.features.map(function(rat) { 
+                        var location = rat.geometry.coordinates.reverse(); 
+                        location.push(1); 
+                        return location; 
+                    });
+                    var heat = L.heatLayer(
+                        heatPoints,  
+                        {  
+                        radius: 35
+                        } 
+                    );
+                    map.addLayer(heat);
+
+                } 
+                });
+
+            // $.ajax({ 
+            //     url: "rodents.geojson",
+            //     dataType: "json",
+            //     success: function(rodents){ 
+            //         var ratIcon = L.icon({ 
+            //             iconUrl: 'rat.png',
+            //             iconSize: [25,25]
+            //             });
+                         
+            //         var ratLayer = L.geoJson(rodents, { pointToLayer: function(feature,latlng){ 
+            //                                 var marker = L.marker(latlng,{icon: ratIcon});
+            //                                 marker.bindPopup(feature.properties.Location + " " + feature.properties.OPEN_DT);
+            //                                 return marker; 
+            //         }} );
+
+            //         var clusters = L.markerClusterGroup(); 
+            //         clusters.addLayer(ratLayer); 
+            //         map.addLayer(clusters); 
+            //     } 
+            //     });
+
+            //     function maxDensity(data) {
+            //         var max = 0;
+            //         for (elt in data["features"]) {
+            //             if (data["features"][elt]["properties"]["density"] > max) {
+            //                 max = data["features"][elt]["properties"]["density"];
+            //             }
+            //         }
+            //         return max;
+            //     }
+                
+            //     $.ajax({ 
+            //     url: "neighborhoods.geojson",
+            //     dataType: "json",
+            //     success: function(neighborhoods){   
+            //         L.geoJson(neighborhoods, { style: function(feature){ 
+            //                                     return { color: "#999999", 
+            //                                             weight: 1,
+            //                                             fillColor: d3.interpolateYlOrRd(feature.properties.density/maxDensity(neighborhoods)),
+            //                                             fillOpacity: 0.6
+            //                                     }; 
+            //                                 },
+            //                                 onEachFeature: function( feature, layer ){ 
+            //                                 layer.bindPopup("<strong>"+feature.properties.Name+"</strong> </br>"+ feature.properties.density + " rats par mètre carré"); 
+            //                                 }
+            //         }).addTo(map);
+            //     } 
+            //     });
+        </script>
+	</body>
+</html>
