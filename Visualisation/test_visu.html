@@ -29,8 +29,65 @@
                 url: "../Clustering/test.geojson",
                 dataType: "json",
                 success: function(test){ 
-                    L.geoJSON(test).addTo(map);
-                    console.log(test)
+                    // L.geoJSON(test).addTo(map);
+                    var geojsonLayer = L.geoJSON(test, {
+                    onEachFeature: function(feature, layer) {
+                        // Ajouter un événement de clic pour chaque feature
+                        layer.on('click', function() {
+                            // Afficher la propriété cluster dans la console
+                            console.log(feature.properties.cluster);
+                        });
+                    }}).addTo(map);
+
+                    // Créer un menu déroulant pour les feature
+                    var select = L.control({position: 'topright'});
+                    select.onAdd = function(map) {
+                        var div = L.DomUtil.create('div', 'select');
+                        div.innerHTML = '<select id="features" style="padding: 5px"><option value="">Sélectionnez un cluster</option></select>';
+                        return div;
+                    };
+                    select.addTo(map);
+
+                    // Ajouter des options au menu déroulant pour chaque feature
+                    geojsonLayer.eachLayer(function(layer) {
+                        var feature = layer.feature;
+                        var option = L.DomUtil.create('option', '', document.getElementById('features'));
+                        option.value = L.stamp(layer);
+                        option.innerHTML = feature.properties.cluster;
+                    });
+
+                    // Ajouter une option supplémentaire au menu déroulant
+                    var option = L.DomUtil.create('option', '', document.getElementById('features'));
+                    option.value = 'all';
+                    option.innerHTML = 'Afficher tous les clusters';
+                    document.getElementById('features').add(option);
+
+                    // Ajouter un événement de changement pour le menu déroulant
+                    document.getElementById('features').addEventListener('change', function() {
+                        if (this.value === 'all') {
+                            // Afficher toutes les couches GeoJSON sur la carte
+                            geojsonLayer.addTo(map);
+                            
+                            // Centrer la carte sur toutes les couches GeoJSON
+                            map.fitBounds(geojsonLayer.getBounds());
+                        } else {
+                            // Récupérer la couche GeoJSON correspondante
+                            var layer = geojsonLayer.getLayer(this.value);
+                            
+                            // Supprimer toutes les couches GeoJSON de la carte
+                            map.eachLayer(function(layer) {
+                                if (layer instanceof L.GeoJSON) {
+                                    map.removeLayer(layer);
+                                }
+                            });
+                            
+                            // Ajouter la couche GeoJSON correspondant au feature sélectionné
+                            var selectedLayer = L.geoJSON(layer.feature).addTo(map);
+                            
+                            // Centrer la carte sur la couche GeoJSON correspondant au feature sélectionné
+                            map.setView(selectedLayer.getBounds().getCenter(), 7);
+                        }
+                    });
                 } 
                 });
         </script>
