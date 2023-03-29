@@ -1,302 +1,302 @@
 name,latitude,longitude,cluster
-Hôpital privé Le Bois,50.6344931,3.0311902,1
-American Hospital of Paris,48.8925356,2.2724208,1
-Hôpital Jeanne de Flandre,50.6057446,3.0329015,1
-Hôpital Roger Salengro,50.60751,3.0328913,1
+Hôpital privé Le Bois,50.6344931,3.0311902,0
+American Hospital of Paris,48.8925356,2.2724208,0
+Hôpital Jeanne de Flandre,50.6057446,3.0329015,0
+Hôpital Roger Salengro,50.60751,3.0328913,0
 Centre hospitalier de Valence,44.9137014,4.9054002,3
-Hôpital Henri Mondor,48.7959793,2.4528425,1
-Institut Calot,50.4161175,1.564099,1
-Hôpital de la Mère et de l’Enfant,45.8136934,1.2397782,0
-Hôpital européen,43.3100687,5.3723015,2
-Centre Henri Becquerel,49.4397836,1.1061441,1
-Institut Universitaire du Cancer de Toulouse - Oncopole,43.5566623,1.4264766,0
+Hôpital Henri Mondor,48.7959793,2.4528425,0
+Institut Calot,50.4161175,1.564099,0
+Hôpital de la Mère et de l’Enfant,45.8136934,1.2397782,5
+Hôpital européen,43.3100687,5.3723015,1
+Centre Henri Becquerel,49.4397836,1.1061441,0
+Institut Universitaire du Cancer de Toulouse - Oncopole,43.5566623,1.4264766,5
 Centre hospitalier Annecy-Genevois,45.9322381,6.1172059,3
 Centre Hospitalier Saint-Joseph Saint-Luc,45.7496618,4.8358907,3
-Hôpital Louis Mourier,48.9249789,2.2362185,1
-Hôpital Foch,48.8708091,2.2224052,1
+Hôpital Louis Mourier,48.9249789,2.2362185,0
+Hôpital Foch,48.8708091,2.2224052,0
 CHU Nord de Grenoble,45.2008162,5.7446182,3
-Hôpital de la Cavale Blanche,48.4018937,-4.5282832,4
-Institut Coeur Poumon,50.6084479,3.0343226,1
-Centre hospitalier de Niort,46.3173673,-0.4617038,0
-Hôpital Privé d'Antony,48.7567961,2.3036724,1
-Clinique Mathilde,49.4284956,1.0967405,1
-Centre Hospitalier de Narbonne,43.181018,3.000148,0
-Hôpital Tenon,48.8663636,2.4020051,1
-GHU Paris Psychiatrie & neurosciences - site Sainte-Anne,48.8284833,2.3390837,1
-Fondation ophtalmologique Adolphe de Rothschild,48.8782539,2.3776337,1
-Hôpital Cochin,48.8370175,2.3399281,1
-Institut Mutualiste Montsouris,48.8227046,2.3325473,1
-Hôpital Européen Georges Pompidou,48.8387697,2.2739432,1
-Hôpital Armand-Trousseau,48.8419046,2.4066858,1
-Hôpital Lariboisière,48.8829019,2.3533116,1
+Hôpital de la Cavale Blanche,48.4018937,-4.5282832,2
+Institut Coeur Poumon,50.6084479,3.0343226,0
+Centre hospitalier de Niort,46.3173673,-0.4617038,5
+Hôpital Privé d'Antony,48.7567961,2.3036724,0
+Clinique Mathilde,49.4284956,1.0967405,0
+Centre Hospitalier de Narbonne,43.181018,3.000148,1
+Hôpital Tenon,48.8663636,2.4020051,0
+GHU Paris Psychiatrie & neurosciences - site Sainte-Anne,48.8284833,2.3390837,0
+Fondation ophtalmologique Adolphe de Rothschild,48.8782539,2.3776337,0
+Hôpital Cochin,48.8370175,2.3399281,0
+Institut Mutualiste Montsouris,48.8227046,2.3325473,0
+Hôpital Européen Georges Pompidou,48.8387697,2.2739432,0
+Hôpital Armand-Trousseau,48.8419046,2.4066858,0
+Hôpital Lariboisière,48.8829019,2.3533116,0
 Centre Hospitalier de Roanne,46.0426677,4.0790163,3
-Hôpital du Scorff,47.7530774,-3.3570798,4
-Centre hospitalier intercommunal de Créteil,48.7967249,2.4657507,1
-Hôpital Purpan,43.6097722,1.4013302,0
-Groupe hospitalier Pellegrin,44.8275153,-0.6078081,0
-Hôpital d'Instruction des Armées Robert Picqué,44.7989033,-0.5741581,0
-Centre hospitalier de Fontainebleau,48.4111177,2.6973835,1
-Clinique du Millénaire,43.6018888,3.9137096,2
-Centre hospitalier de Cholet,47.042212,-0.8967341,4
-Hôpital Saint-Louis,48.8738281,2.3676232,1
-Centre hospitalier de Perpignan,42.7255393,2.8895795,0
-Hôpital Haut-Lévêque,44.7859668,-0.659502,0
-Centre Chirurgical Marie Lannelongue,48.7844525,2.2732164,1
-Centre Hospitalier Intercommunal Lucie et Raymond Aubrac,48.7218958,2.4527106,1
+Hôpital du Scorff,47.7530774,-3.3570798,2
+Centre hospitalier intercommunal de Créteil,48.7967249,2.4657507,0
+Hôpital Purpan,43.6097722,1.4013302,5
+Groupe hospitalier Pellegrin,44.8275153,-0.6078081,5
+Hôpital d'Instruction des Armées Robert Picqué,44.7989033,-0.5741581,5
+Centre hospitalier de Fontainebleau,48.4111177,2.6973835,0
+Clinique du Millénaire,43.6018888,3.9137096,1
+Centre hospitalier de Cholet,47.042212,-0.8967341,2
+Hôpital Saint-Louis,48.8738281,2.3676232,0
+Centre hospitalier de Perpignan,42.7255393,2.8895795,1
+Hôpital Haut-Lévêque,44.7859668,-0.659502,5
+Centre Chirurgical Marie Lannelongue,48.7844525,2.2732164,0
+Centre Hospitalier Intercommunal Lucie et Raymond Aubrac,48.7218958,2.4527106,0
 Hôpital Gabriel Montpied,45.7573668,3.0920736,3
-Centre hospitalier de Meulan-en-Yvelines,49.0026873,1.9115473,1
-Hôpital Sud,48.0831727,-1.6530476,4
-Hôpital Bretonneau,47.3877776,0.6696169,1
-Hôpital Paul Brousse,48.7969523,2.361662,1
-Hôpital Robert Debré,48.8799066,2.4029431,1
-Hôpital Bicêtre,48.8102596,2.3537169,1
-Hôpital d'instruction des armées Sainte-Anne,43.1336798,5.9301834,2
-Hôpital Avicenne,48.9145918,2.4237883,1
-Centre hospitalier intercommunal Fréjus Saint-Raphaël,43.4390333,6.7518601,2
-Centre hospitalier de Dieppe,49.9186428,1.0786551,1
-Clinique d'Occitanie,43.465509,1.3381931,0
-Centre hospitalier de Longjumeau,48.6917091,2.2916184,1
-Clinique de l'Union,43.6517982,1.5106238,0
-Hôpital Émile Muller,47.7250535,7.3433698,5
-Centre hospitalier de Pau,43.326265,-0.3469779,0
-Centre hospitalier d'Albi,43.9258272,2.1424676,0
-Hôpital de la Conception,43.2904693,5.395108,2
-Hôpital Simone Veil,49.0016641,2.2704902,1
-Centre hospitalier intercommunal André Grégoire,48.8776062,2.4532046,1
-Hôpital Jean Verdier,48.9095822,2.488021,1
-Hopital Beaujon,48.9081917,2.3102185,1
-Centre hospitalier Comminges Pyrénées,43.112405,0.7106877,0
-Hôpital d'Instruction des Armées Bégin,48.8439535,2.4265211,1
-Centre hospitalier,46.7982839,1.6952022,1
-Hôpital Bichat-Claude Bernard,48.8990145,2.331758,1
-Centre hospitalier de Béziers,43.3399156,3.2546494,2
-Centre hospitalier intercommunal de Cornouaille,47.9859996,-4.0955851,4
-Centre hospitalier intercommunal de Poissy,48.9187371,2.0227644,1
-Hôpital Delafontaine,48.9352707,2.3748594,1
+Centre hospitalier de Meulan-en-Yvelines,49.0026873,1.9115473,0
+Hôpital Sud,48.0831727,-1.6530476,2
+Hôpital Bretonneau,47.3877776,0.6696169,0
+Hôpital Paul Brousse,48.7969523,2.361662,0
+Hôpital Robert Debré,48.8799066,2.4029431,0
+Hôpital Bicêtre,48.8102596,2.3537169,0
+Hôpital d'instruction des armées Sainte-Anne,43.1336798,5.9301834,1
+Hôpital Avicenne,48.9145918,2.4237883,0
+Centre hospitalier intercommunal Fréjus Saint-Raphaël,43.4390333,6.7518601,1
+Centre hospitalier de Dieppe,49.9186428,1.0786551,0
+Clinique d'Occitanie,43.465509,1.3381931,5
+Centre hospitalier de Longjumeau,48.6917091,2.2916184,0
+Clinique de l'Union,43.6517982,1.5106238,5
+Hôpital Émile Muller,47.7250535,7.3433698,4
+Centre hospitalier de Pau,43.326265,-0.3469779,5
+Centre hospitalier d'Albi,43.9258272,2.1424676,5
+Hôpital de la Conception,43.2904693,5.395108,1
+Hôpital Simone Veil,49.0016641,2.2704902,0
+Centre hospitalier intercommunal André Grégoire,48.8776062,2.4532046,0
+Hôpital Jean Verdier,48.9095822,2.488021,0
+Hopital Beaujon,48.9081917,2.3102185,0
+Centre hospitalier Comminges Pyrénées,43.112405,0.7106877,5
+Hôpital d'Instruction des Armées Bégin,48.8439535,2.4265211,0
+Centre hospitalier,46.7982839,1.6952022,0
+Hôpital Bichat-Claude Bernard,48.8990145,2.331758,0
+Centre hospitalier de Béziers,43.3399156,3.2546494,1
+Centre hospitalier intercommunal de Cornouaille,47.9859996,-4.0955851,2
+Centre hospitalier intercommunal de Poissy,48.9187371,2.0227644,0
+Hôpital Delafontaine,48.9352707,2.3748594,0
 Centre hospitalier Jacques Lacarin,46.1229198,3.435529,3
-Hôpital Civil,48.5761071,7.7448917,5
-Hôpital privé les Franciscaines,43.8476738,4.3744648,2
-Centre hospitalier de Sambre-Avesnois,50.2781227,3.959225,1
+Hôpital Civil,48.5761071,7.7448917,4
+Hôpital privé les Franciscaines,43.8476738,4.3744648,1
+Centre hospitalier de Sambre-Avesnois,50.2781227,3.959225,0
 Centre Hospitalier Nord Ouest Villefranche,46.0049906,4.6942242,3
-Hôpital de Hautepierre,48.5932911,7.7070877,5
-Centre Hospitalier Régional Universitaire de Lille,50.6083318,3.0342974,1
-Centre hospitalier de Cambrai,50.1649398,3.2249241,1
-Hôpital Trousseau,47.350201,0.7120519,1
-Hôpital Central,48.6845827,6.1917704,5
-Hôpital Charles Nicolle,49.4400647,1.1090297,1
-Centre hospitalier intercommunal Robert Ballanger,48.9537109,2.5240401,1
-Centre hospitalier de Mont-de-Marsan - Site de Sainte-Anne,43.9013466,-0.4971132,0
-Hôpial privé du Vert-Galant,48.9408157,2.5723889,1
-Centre Hospitalier Henri Mondor,44.9264994,2.4361419,0
-Centre hospitalier François Quesnay,48.9984026,1.6740774,1
-Hôpital Ambroise Paré,48.8487985,2.2354703,1
-Centre hospitalier des Pays de Morlaix,48.570405,-3.8327882,4
-Hôpital Pasteur,48.0752245,7.3372909,5
-Centre hospitalier de Haguenau,48.7973684,7.7778465,5
-Centre hospitalier de Mont-de-Marsan,43.8937502,-0.4857972,0
-Centre hospitalier de Troyes,48.2781851,4.069502,1
+Hôpital de Hautepierre,48.5932911,7.7070877,4
+Centre Hospitalier Régional Universitaire de Lille,50.6083318,3.0342974,0
+Centre hospitalier de Cambrai,50.1649398,3.2249241,0
+Hôpital Trousseau,47.350201,0.7120519,0
+Hôpital Central,48.6845827,6.1917704,4
+Hôpital Charles Nicolle,49.4400647,1.1090297,0
+Centre hospitalier intercommunal Robert Ballanger,48.9537109,2.5240401,0
+Centre hospitalier de Mont-de-Marsan - Site de Sainte-Anne,43.9013466,-0.4971132,5
+Hôpial privé du Vert-Galant,48.9408157,2.5723889,0
+Centre Hospitalier Henri Mondor,44.9264994,2.4361419,5
+Centre hospitalier François Quesnay,48.9984026,1.6740774,0
+Hôpital Ambroise Paré,48.8487985,2.2354703,0
+Centre hospitalier des Pays de Morlaix,48.570405,-3.8327882,2
+Hôpital Pasteur,48.0752245,7.3372909,4
+Centre hospitalier de Haguenau,48.7973684,7.7778465,4
+Centre hospitalier de Mont-de-Marsan,43.8937502,-0.4857972,5
+Centre hospitalier de Troyes,48.2781851,4.069502,0
 Centre hospitalier de Lons-le-Saunier,46.6766932,5.5503543,3
 Centre hospitalier de Mâcon,46.3159965,4.8136687,3
-Hôpital privé de Parly 2 Le Chesnay,48.8299205,2.1197838,1
-Centre hospitalier de Bigorre - La Gespe,43.2203681,0.0558135,0
-Polyclinique Bordeaux Nord Aquitaine,44.8636751,-0.5791631,0
+Hôpital privé de Parly 2 Le Chesnay,48.8299205,2.1197838,0
+Centre hospitalier de Bigorre - La Gespe,43.2203681,0.0558135,5
+Polyclinique Bordeaux Nord Aquitaine,44.8636751,-0.5791631,5
 Centre hospitalier Ardèche Nord,45.2417006,4.6653031,3
-Centre hospitalier de la Côte Basque - Site Cam de Prats,43.4847675,-1.4645881,0
-Centre hospitalier d’Auxerre,47.8044781,3.5559711,1
-Centre hospitalier du Pays d'Aix,43.5354691,5.4433612,2
-Centre hospitalier de Cahors,44.4448763,1.4364012,0
+Centre hospitalier de la Côte Basque - Site Cam de Prats,43.4847675,-1.4645881,5
+Centre hospitalier d’Auxerre,47.8044781,3.5559711,0
+Centre hospitalier du Pays d'Aix,43.5354691,5.4433612,1
+Centre hospitalier de Cahors,44.4448763,1.4364012,5
 Clinique Mutualiste Chirurgicale,45.4144011,4.394414,3
 Hôpital Privé de la Loire,45.4282522,4.4180059,3
 Hôpital Lozère,44.5224462,3.4906921,3
-Centre hospitalier de Guéret,46.163928,1.8696375,0
-Hôpital Jacques Monod,49.5265171,0.1845867,1
-Centre hospitalier d'Aubagne,43.2919537,5.5640544,2
-Centre hospitalier universitaire de Limoges,45.8123216,1.2362064,0
-Hôpital privé Jacques Cartier,48.7309145,2.2919351,1
-Centre Hospitalier Sainte-Catherine,48.7461877,7.3490899,5
-Clinique des Ormeaux,49.4875619,0.1365213,1
-Centre hospitalier de Périgueux,45.1944791,0.7297196,0
-Centre hospitalier de Versailles,48.8315367,2.1250948,1
-Centre hospitalier de Creil,49.2474231,2.4604676,1
-Centre hospitalier des vallées de l’Ariège - Site de Foix,43.0258239,1.6198498,0
+Centre hospitalier de Guéret,46.163928,1.8696375,5
+Hôpital Jacques Monod,49.5265171,0.1845867,0
+Centre hospitalier d'Aubagne,43.2919537,5.5640544,1
+Centre hospitalier universitaire de Limoges,45.8123216,1.2362064,5
+Hôpital privé Jacques Cartier,48.7309145,2.2919351,0
+Centre Hospitalier Sainte-Catherine,48.7461877,7.3490899,4
+Clinique des Ormeaux,49.4875619,0.1365213,0
+Centre hospitalier de Périgueux,45.1944791,0.7297196,5
+Centre hospitalier de Versailles,48.8315367,2.1250948,0
+Centre hospitalier de Creil,49.2474231,2.4604676,0
+Centre hospitalier des vallées de l’Ariège - Site de Foix,43.0258239,1.6198498,5
 Centre hospitalier de Moulins-Yzeure,46.5710876,3.3261792,3
-Centre hospitalier de Lens,50.4392582,2.818039,1
-Hôpital Croix Saint-Simon,48.8539196,2.4084397,1
-Hôpital privé La Casamance,43.27584,5.5311265,2
-Centre hospitalier Geneviève de Gaulle Anthonioz,48.6560962,4.9648353,5
-Grand Hôpital de l'Est Francilien - Site de Marne-la-Vallée,48.8481564,2.772111,1
-Centre hospitalier de Brive-la-Gaillarde,45.169131,1.5340025,0
-Hôpital Saint-Philibert,50.6511066,2.9728142,1
-Centre hospitalier de Meaux,48.9674603,2.8864903,1
-Clinique du Pont de Chaume,44.0064179,1.3793092,0
-Hôpital d'instruction des armées Laveran,43.3265988,5.4151617,2
-Hôpital Necker Enfants Malades,48.8452229,2.3155582,1
-Centre hospitalier de Montélimar,44.5688839,4.7828759,2
-Hôpital Saint-André,44.8337112,-0.5791508,0
+Centre hospitalier de Lens,50.4392582,2.818039,0
+Hôpital Croix Saint-Simon,48.8539196,2.4084397,0
+Hôpital privé La Casamance,43.27584,5.5311265,1
+Centre hospitalier Geneviève de Gaulle Anthonioz,48.6560962,4.9648353,4
+Grand Hôpital de l'Est Francilien - Site de Marne-la-Vallée,48.8481564,2.772111,0
+Centre hospitalier de Brive-la-Gaillarde,45.169131,1.5340025,5
+Hôpital Saint-Philibert,50.6511066,2.9728142,0
+Centre hospitalier de Meaux,48.9674603,2.8864903,0
+Clinique du Pont de Chaume,44.0064179,1.3793092,5
+Hôpital d'instruction des armées Laveran,43.3265988,5.4151617,1
+Hôpital Necker Enfants Malades,48.8452229,2.3155582,0
+Centre hospitalier de Montélimar,44.5688839,4.7828759,1
+Hôpital Saint-André,44.8337112,-0.5791508,5
 Hôpital de Fleyriat,46.2240864,5.2102101,3
-Hôpital Rangueil,43.5603887,1.4521396,0
-Centre hospitalier d'Arras,50.2956425,2.7580656,1
-Clinique de l'Europe,49.4255445,1.0858874,1
-Hôpital Saint-Antoine,48.8485322,2.3824582,1
-Centre hospitalier d'Avignon,43.9190406,4.8020223,2
-Hôpital Saint-Camille,48.8332331,2.5266679,1
+Hôpital Rangueil,43.5603887,1.4521396,5
+Centre hospitalier d'Arras,50.2956425,2.7580656,0
+Clinique de l'Europe,49.4255445,1.0858874,0
+Hôpital Saint-Antoine,48.8485322,2.3824582,0
+Centre hospitalier d'Avignon,43.9190406,4.8020223,1
+Hôpital Saint-Camille,48.8332331,2.5266679,0
 Hôpital de la Croix-Rousse,45.7816895,4.8310825,3
-Centre hospitalier de Montauban,44.0231385,1.3509201,0
-Centre Médico-Chirurgical de l'Europe,48.880681,2.1067685,1
-Centre hospitalier de Saint-Quentin,49.8607984,3.2693608,1
-Centre Hospitalier Intercommunal des Alpes du Sud,44.5571762,6.0729358,2
-Centre Hospitalier Aunay-Bayeux,49.2746385,-0.7013115,4
+Centre hospitalier de Montauban,44.0231385,1.3509201,5
+Centre Médico-Chirurgical de l'Europe,48.880681,2.1067685,0
+Centre hospitalier de Saint-Quentin,49.8607984,3.2693608,0
+Centre Hospitalier Intercommunal des Alpes du Sud,44.5571762,6.0729358,1
+Centre Hospitalier Aunay-Bayeux,49.2746385,-0.7013115,2
 Clinique Belledonne,45.1863969,5.760274,3
-Hôpital privé du Val d'Yerres,48.712331,2.4956205,1
-Hôpital d'Instruction des Armées Percy,48.8142761,2.255685,1
-Centre hospitalier d'Orsay,48.6990851,2.1861337,1
-Fondation Lenval - Hôpital pour Enfants,43.6894365,7.241645,2
-Centre hospitalier de Saint-Malo,48.6378631,-2.007571,4
-Hôpital Prosper Chubert,47.6643825,-2.7456812,4
-Centre hospitalier de Dax-Côte d'Argent,43.7116475,-1.0399162,0
-Hôpital privé Claude Galien,48.6816353,2.5394854,1
-Hôpital Saint-Nicolas,49.1551295,5.3822433,5
-Hôpital Bel-Air,49.3732047,6.1494439,5
-Hôpital privé Saint-Martin,49.19816,-0.3806705,4
+Hôpital privé du Val d'Yerres,48.712331,2.4956205,0
+Hôpital d'Instruction des Armées Percy,48.8142761,2.255685,0
+Centre hospitalier d'Orsay,48.6990851,2.1861337,0
+Fondation Lenval - Hôpital pour Enfants,43.6894365,7.241645,1
+Centre hospitalier de Saint-Malo,48.6378631,-2.007571,2
+Hôpital Prosper Chubert,47.6643825,-2.7456812,2
+Centre hospitalier de Dax-Côte d'Argent,43.7116475,-1.0399162,5
+Hôpital privé Claude Galien,48.6816353,2.5394854,0
+Hôpital Saint-Nicolas,49.1551295,5.3822433,4
+Hôpital Bel-Air,49.3732047,6.1494439,4
+Hôpital privé Saint-Martin,49.19816,-0.3806705,2
 Centre Hospitalier Alpes Léman,46.1411607,6.3206932,3
-Hôpital d'Instruction des Armées Clermont-Tonnerre,48.3925818,-4.4950099,4
+Hôpital d'Instruction des Armées Clermont-Tonnerre,48.3925818,-4.4950099,2
 Hôpital François Mitterrand,47.3204203,5.0693554,3
-Centre hospitalier de Laon,49.5632444,3.6112291,1
-Hôpital Lapeyronie,43.6298922,3.8517146,2
+Centre hospitalier de Laon,49.5632444,3.6112291,0
+Hôpital Lapeyronie,43.6298922,3.8517146,1
 Hôpital Estaing,45.7859285,3.1103053,3
-Centre hospitalier de Carcassonne,43.2201707,2.395562,0
-Centre hospitalier d'Elbeuf,49.3055711,1.0424484,1
-Centre hospitalier de Dunkerque,51.0379411,2.3985161,1
-Hôpital Sainte-Musse,43.1239837,5.9756306,2
-Centre hospitalier de Dreux,48.7268392,1.3852164,1
-Hôpital Beauregard Vert Coteau,43.3139531,5.4104818,2
-Centre hospitalier de Libourne,44.9184786,-0.2290177,0
-Hôpital Pontchaillou,48.1206196,-1.6946892,4
-Centre Hospitalier de Valenciennes,50.3602888,3.5014134,1
-Centre hospitalier d'Armentières,50.6847018,2.8678808,1
-Hôpital Morvan,48.3945255,-4.4866732,4
-Centre hospitalier de Béthune,50.514945,2.6688797,1
+Centre hospitalier de Carcassonne,43.2201707,2.395562,5
+Centre hospitalier d'Elbeuf,49.3055711,1.0424484,0
+Centre hospitalier de Dunkerque,51.0379411,2.3985161,0
+Hôpital Sainte-Musse,43.1239837,5.9756306,1
+Centre hospitalier de Dreux,48.7268392,1.3852164,0
+Hôpital Beauregard Vert Coteau,43.3139531,5.4104818,1
+Centre hospitalier de Libourne,44.9184786,-0.2290177,5
+Hôpital Pontchaillou,48.1206196,-1.6946892,2
+Centre Hospitalier de Valenciennes,50.3602888,3.5014134,0
+Centre hospitalier d'Armentières,50.6847018,2.8678808,0
+Hôpital Morvan,48.3945255,-4.4866732,2
+Centre hospitalier de Béthune,50.514945,2.6688797,0
 Hôpital Édouard Herriot,45.743482,4.8821987,3
 Hôpital d'instruction des armées Desgenettes,45.7407846,4.8908257,3
 Hôpital Femme-Mère-Enfant,45.7460646,4.9006983,3
 Hôpital neurologique Pierre Wertheimer,45.7490851,4.8992505,3
-Clinique du Cèdre,49.4641374,1.1125814,1
-Hôpital privé de Marne-Chantereine,48.88561,2.6299658,1
+Clinique du Cèdre,49.4641374,1.1125814,0
+Hôpital privé de Marne-Chantereine,48.88561,2.6299658,0
 Centre hospitalier William Morey,46.7770519,4.840724,3
-Centre hospitalier de Vesoul,47.6367477,6.1397503,5
+Centre hospitalier de Vesoul,47.6367477,6.1397503,4
 Hôpital Pierre Bérégovoy,46.9790244,3.1221713,3
-Centre hospitalier de Compiègne,49.3857809,2.7895342,1
-Centre hospitalier d'Alençon,48.4254494,0.0844081,1
-Institut Paoli-Calmettes,43.2624725,5.4091814,2
-Centre hospitalier de Digne-les-Bains,44.0714958,6.17387,2
+Centre hospitalier de Compiègne,49.3857809,2.7895342,0
+Centre hospitalier d'Alençon,48.4254494,0.0844081,0
+Institut Paoli-Calmettes,43.2624725,5.4091814,1
+Centre hospitalier de Digne-les-Bains,44.0714958,6.17387,1
 Clinique Convert,46.2109352,5.2533088,3
-Hôpital Clocheville,47.3899785,0.6804971,1
-Hôpital Raymond Poincaré,48.8393556,2.1694484,1
+Hôpital Clocheville,47.3899785,0.6804971,0
+Hôpital Raymond Poincaré,48.8393556,2.1694484,0
 Centre Hospitalier Métropole Savoie,45.5648641,5.9108402,3
-Hôpital Robert-Schuman,49.1238709,6.2435684,5
-Centre hospitalier de Sens,48.192847,3.2984288,1
-Centre hospitalier de la Région de Saint-Omer,50.7026566,2.2535934,1
-Centre Cardiologique du Nord,48.9411766,2.3470061,1
-Centre hospitalier d'Arles,43.6572637,4.6336388,2
-Hôpital Saint-Joseph,43.2752785,5.3926682,2
-Centre hospitalier de Tourcoing,50.7455712,3.1814065,1
-Centre hospitalier de Roubaix,50.6797338,3.1725315,1
-Centre hospitalier d'Abbeville,50.1023006,1.8313298,1
-Centre Hospitalier Louis Pasteur,48.4206782,1.506739,1
-Hôpital Pitié-Salpêtrière,48.8377337,2.365283,1
-Centre hospitalier de Cannes,43.5636782,7.0045937,2
-Hôpital Claude Huriez,50.6105208,3.034724,1
-Clinique Vert-côteau,43.3028467,5.4320892,2
-Centre hospitalier de Blois,47.6036884,1.3433445,1
-Centre Hospitalier de Rambouillet,48.6514303,1.8251817,1
-Centre hospitalier universitaire de Nice,43.7245761,7.2821761,2
-CHRU de Nancy Brabois,48.6471211,6.1496974,5
+Hôpital Robert-Schuman,49.1238709,6.2435684,4
+Centre hospitalier de Sens,48.192847,3.2984288,0
+Centre hospitalier de la Région de Saint-Omer,50.7026566,2.2535934,0
+Centre Cardiologique du Nord,48.9411766,2.3470061,0
+Centre hospitalier d'Arles,43.6572637,4.6336388,1
+Hôpital Saint-Joseph,43.2752785,5.3926682,1
+Centre hospitalier de Tourcoing,50.7455712,3.1814065,0
+Centre hospitalier de Roubaix,50.6797338,3.1725315,0
+Centre hospitalier d'Abbeville,50.1023006,1.8313298,0
+Centre Hospitalier Louis Pasteur,48.4206782,1.506739,0
+Hôpital Pitié-Salpêtrière,48.8377337,2.365283,0
+Centre hospitalier de Cannes,43.5636782,7.0045937,1
+Hôpital Claude Huriez,50.6105208,3.034724,0
+Clinique Vert-côteau,43.3028467,5.4320892,1
+Centre hospitalier de Blois,47.6036884,1.3433445,0
+Centre Hospitalier de Rambouillet,48.6514303,1.8251817,0
+Centre hospitalier universitaire de Nice,43.7245761,7.2821761,1
+CHRU de Nancy Brabois,48.6471211,6.1496974,4
 Centre hospitalier de Montluçon,46.3419595,2.6097723,3
-Clinique Jean Villar,44.8889561,-0.616115,0
-Hôpital Privé Résidence du Parc,43.270265,5.4159596,2
-Clinique Bouchard,43.2825651,5.3799044,2
-Institut Arnault Tzanck,43.6608664,7.1864607,2
-Centre hospitalier d'Étampes,48.4213801,2.1496533,1
-Centre Hospitalier Émile Durkheim,48.178603,6.4540439,5
-Centre hospitalier de Salon-de-Provence,43.6391371,5.1034347,2
+Clinique Jean Villar,44.8889561,-0.616115,5
+Hôpital Privé Résidence du Parc,43.270265,5.4159596,1
+Clinique Bouchard,43.2825651,5.3799044,1
+Institut Arnault Tzanck,43.6608664,7.1864607,1
+Centre hospitalier d'Étampes,48.4213801,2.1496533,0
+Centre Hospitalier Émile Durkheim,48.178603,6.4540439,4
+Centre hospitalier de Salon-de-Provence,43.6391371,5.1034347,1
 Clinique de la Sauvegarde,45.7882062,4.7866074,3
-Centre hospitalier de La Rochelle,46.1600855,-1.1437911,4
-Centre hospitalier d'Angoulême,45.6352634,0.119542,0
-Centre hospitalier de Saintonge,45.7466605,-0.6540077,0
-Centre hospitalier Yves Le Foll,48.492093,-2.7503773,4
+Centre hospitalier de La Rochelle,46.1600855,-1.1437911,2
+Centre hospitalier d'Angoulême,45.6352634,0.119542,5
+Centre hospitalier de Saintonge,45.7466605,-0.6540077,5
+Centre hospitalier Yves Le Foll,48.492093,-2.7503773,2
 Centre hospitalier Émile Roux,45.051103,3.8786249,3
-Clinique du Parc,43.6352771,3.8916603,2
-Centre hospitalier d'Argenteuil,48.9445286,2.2375052,1
-Centre Hospitalier Départemental - Site de La-Roche-sur-Yon,46.6681919,-1.4136681,4
+Clinique du Parc,43.6352771,3.8916603,1
+Centre hospitalier d'Argenteuil,48.9445286,2.2375052,0
+Centre Hospitalier Départemental - Site de La-Roche-sur-Yon,46.6681919,-1.4136681,2
 Hôpital Nord,45.4815842,4.3615623,3
-Centre hospitalier Robert Bisson,49.1447135,0.2323421,1
-Centre hospitalier de Châlons-en-Champagne,48.9715968,4.3701975,5
-Hôpital privé Clairval,43.2484803,5.4275743,2
-Clinique Tous Vents,49.5190446,0.5434783,1
-Clinique les Sources,43.7410341,7.2780428,2
+Centre hospitalier Robert Bisson,49.1447135,0.2323421,0
+Centre hospitalier de Châlons-en-Champagne,48.9715968,4.3701975,4
+Hôpital privé Clairval,43.2484803,5.4275743,1
+Clinique Tous Vents,49.5190446,0.5434783,0
+Clinique les Sources,43.7410341,7.2780428,1
 Hôpitaux du Léman,46.3595551,6.4803916,3
-Centre hospitalier René Dubos,49.0637296,2.0957275,1
-Hôpital de la Timone,43.2895552,5.4035599,2
-Centre hospitalier de la Côte Basque - Site de Saint-Leon,43.4824696,-1.4805736,0
-Centre hospitalier Manchester,49.7622265,4.6984626,5
+Centre hospitalier René Dubos,49.0637296,2.0957275,0
+Hôpital de la Timone,43.2895552,5.4035599,1
+Centre hospitalier de la Côte Basque - Site de Saint-Leon,43.4824696,-1.4805736,5
+Centre hospitalier Manchester,49.7622265,4.6984626,4
 Centre Hospitalier Pierre Oudot,45.5959425,5.2453847,3
-Centre Hospitalier de la Milétrie,46.5568176,0.386271,0
-Clinique Saint-Augustin,44.8360749,-0.6051736,0
-Clinique des Cèdres,43.6605062,1.3117182,0
-CHU de Reims,49.2285998,4.0205977,1
-Polyclinique de Gentilly,48.7014021,6.1396144,5
-Hôpital de Saint-Avold,49.1114197,6.7229032,5
-Centre hospitalier de Quimperlé,47.8698751,-3.5561472,4
-Centre Hospitalier Mémorial,49.1048393,-1.1077456,4
-Centre Hospitalier Avranches - Granville,48.6932922,-1.3519387,4
-Centre Hospitalier de Laval,48.0637015,-0.7834437,4
-Centre hospitalier Saint-Nazaire,47.2672782,-2.257103,4
-Centre hospitalier du Bassin de Thau,43.4074988,3.6698949,2
-Centre Hospitalier Jacques Monod,48.7490384,-0.5402104,4
-Centre hospitalier Eure-Seine,49.0319928,1.1147324,1
-Nouvelle Clinique de Tours Plus,47.4332262,0.6676765,1
-Centre hospitalier de Soissons,49.3703028,3.3343424,1
-Centre hospitalier Alès-Cévennes,44.1466,4.0964104,2
-Centre hospitalier de Calais,50.9407264,1.8917482,1
-Centre hospitalier de Beauvais,49.44858,2.0700538,1
-CHU Amiens Sud,49.8726387,2.2538897,1
-Clinique Claude Bernard,43.9301526,2.1651324,0
-Centre Hospitalier Sud Francilien,48.6201628,2.4569349,1
-Hôpital privé de Provence,43.5019285,5.4378527,2
-Centre hospitalier de Douai,50.337892,3.1035315,1
-Centre Hospitalier de l'Arrondissement de Montreuil-sur-Mer,50.4143509,1.6628597,1
-Centre hospitalier de Boulogne-sur-Mer,50.7225361,1.6293843,1
-Centre hospitalier de Melun,48.5574986,2.6430568,1
-Centre hospitalier de Provins,48.5447317,3.303365,1
-Hôpital privé de l'Ouest Parisien,48.7781858,1.9894983,1
-Hôpital Européen de Paris,48.9054858,2.3891656,1
-Groupe hospitalier intercommunal Le Raincy-Montfermeil,48.8982664,2.5719622,1
-Hôpital Antoine Béclère,48.7884465,2.2559101,1
-Centre hospitalier Jacques Cœur,47.0850215,2.4383381,1
-Clinique Capio La Croix du Sud,43.5828674,1.5082837,0
-Centre hospitalier d'Auch,43.6310015,0.5770142,0
-Centre hospitalier d'Antibes - Juan-les-Pins,43.6012944,7.1187102,2
-Centre hospitalier Saint-Esprit,44.2172808,0.6351733,0
-Centre hospitalier de Rodez,44.3601354,2.5514513,0
-Hôpital du Pays d’Autan,43.5661592,2.2620825,0
-Clinique Saint-Pierre,42.695914,2.8651977,0
-Centre hospitalier de la Dracénie,43.5493383,6.4450733,2
-Centre Hospitalier de Grasse - Site Clavary,43.6196592,6.9305256,2
-Clinique Pasteur,48.7023662,6.2174035,5
-Centre hospitalier de Martigues,43.4127492,5.0387835,2
-Institut Gustave Roussy,48.7952702,2.3486738,1
-Polyclinique de Reims Bezannes,49.2182842,4.0019162,1
-Centre hospitalier de Château-Thierry,49.0531272,3.4126322,1
-Clinique du Val d'Or,48.8428379,2.2048698,1
-Centre Hospitalier de Gonesse,48.9916053,2.4496969,1
-Hôpital de Mercy,49.0832214,6.2405267,5
-Centre hospitalier de l'agglomération montargoise,47.9970669,2.7726893,1
-Clinique Saint-Hilaire,49.4413823,1.1140475,1
-Clinique Geoffroy Saint-Hilaire,48.8435512,2.3549103,1
-Hôpital Gui de Chauliac,43.6303284,3.8627305,2
-Centroïde_0,44.26092385957447,0.7799167702127661,0
-Centroïde_1,49.13973150076923,2.268615294615384,1
-Centroïde_2,43.55339379756097,5.465806873170732,2
+Centre Hospitalier de la Milétrie,46.5568176,0.386271,5
+Clinique Saint-Augustin,44.8360749,-0.6051736,5
+Clinique des Cèdres,43.6605062,1.3117182,5
+CHU de Reims,49.2285998,4.0205977,0
+Polyclinique de Gentilly,48.7014021,6.1396144,4
+Hôpital de Saint-Avold,49.1114197,6.7229032,4
+Centre hospitalier de Quimperlé,47.8698751,-3.5561472,2
+Centre Hospitalier Mémorial,49.1048393,-1.1077456,2
+Centre Hospitalier Avranches - Granville,48.6932922,-1.3519387,2
+Centre Hospitalier de Laval,48.0637015,-0.7834437,2
+Centre hospitalier Saint-Nazaire,47.2672782,-2.257103,2
+Centre hospitalier du Bassin de Thau,43.4074988,3.6698949,1
+Centre Hospitalier Jacques Monod,48.7490384,-0.5402104,2
+Centre hospitalier Eure-Seine,49.0319928,1.1147324,0
+Nouvelle Clinique de Tours Plus,47.4332262,0.6676765,0
+Centre hospitalier de Soissons,49.3703028,3.3343424,0
+Centre hospitalier Alès-Cévennes,44.1466,4.0964104,1
+Centre hospitalier de Calais,50.9407264,1.8917482,0
+Centre hospitalier de Beauvais,49.44858,2.0700538,0
+CHU Amiens Sud,49.8726387,2.2538897,0
+Clinique Claude Bernard,43.9301526,2.1651324,5
+Centre Hospitalier Sud Francilien,48.6201628,2.4569349,0
+Hôpital privé de Provence,43.5019285,5.4378527,1
+Centre hospitalier de Douai,50.337892,3.1035315,0
+Centre Hospitalier de l'Arrondissement de Montreuil-sur-Mer,50.4143509,1.6628597,0
+Centre hospitalier de Boulogne-sur-Mer,50.7225361,1.6293843,0
+Centre hospitalier de Melun,48.5574986,2.6430568,0
+Centre hospitalier de Provins,48.5447317,3.303365,0
+Hôpital privé de l'Ouest Parisien,48.7781858,1.9894983,0
+Hôpital Européen de Paris,48.9054858,2.3891656,0
+Groupe hospitalier intercommunal Le Raincy-Montfermeil,48.8982664,2.5719622,0
+Hôpital Antoine Béclère,48.7884465,2.2559101,0
+Centre hospitalier Jacques Cœur,47.0850215,2.4383381,0
+Clinique Capio La Croix du Sud,43.5828674,1.5082837,5
+Centre hospitalier d'Auch,43.6310015,0.5770142,5
+Centre hospitalier d'Antibes - Juan-les-Pins,43.6012944,7.1187102,1
+Centre hospitalier Saint-Esprit,44.2172808,0.6351733,5
+Centre hospitalier de Rodez,44.3601354,2.5514513,5
+Hôpital du Pays d’Autan,43.5661592,2.2620825,5
+Clinique Saint-Pierre,42.695914,2.8651977,1
+Centre hospitalier de la Dracénie,43.5493383,6.4450733,1
+Centre Hospitalier de Grasse - Site Clavary,43.6196592,6.9305256,1
+Clinique Pasteur,48.7023662,6.2174035,4
+Centre hospitalier de Martigues,43.4127492,5.0387835,1
+Institut Gustave Roussy,48.7952702,2.3486738,0
+Polyclinique de Reims Bezannes,49.2182842,4.0019162,0
+Centre hospitalier de Château-Thierry,49.0531272,3.4126322,0
+Clinique du Val d'Or,48.8428379,2.2048698,0
+Centre Hospitalier de Gonesse,48.9916053,2.4496969,0
+Hôpital de Mercy,49.0832214,6.2405267,4
+Centre hospitalier de l'agglomération montargoise,47.9970669,2.7726893,0
+Clinique Saint-Hilaire,49.4413823,1.1140475,0
+Clinique Geoffroy Saint-Hilaire,48.8435512,2.3549103,0
+Hôpital Gui de Chauliac,43.6303284,3.8627305,1
+Centroïde_0,49.13973150076923,2.268615294615384,0
+Centroïde_1,43.50662765909091,5.292113795454545,1
+Centroïde_2,48.117633022727276,-2.2627067999999997,2
 Centroïde_3,45.870407557142855,4.683624474285714,3
-Centroïde_4,48.117633022727276,-2.2627067999999997,4
-Centroïde_5,48.71504104,6.366201865,5
+Centroïde_4,48.71504104,6.366201865,4
+Centroïde_5,44.35593068409091,0.634117340909091,5
