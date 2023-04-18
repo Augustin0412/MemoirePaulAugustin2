@@ -29,7 +29,12 @@
                 url: "../Clustering/test.geojson",
                 dataType: "json",
                 success: function(test){ 
+                    // var colors = ["#FF0000", "#00FF00", "#0000FF", "#FFFF00", "#00FFFF", "#FF00FF"];
+                    var colors = d3.scaleOrdinal(d3.schemeCategory10);
                     var geojsonLayer = L.geoJSON(test, {
+                        style: function(feature) {
+                            return { color: colors(parseInt(feature.properties.num_tournee)), weight: 2 };
+                        },
                     onEachFeature: function(feature, layer) {
                         // Ajouter un événement de clic pour chaque feature
                         layer.on('click', function() {
@@ -39,27 +44,61 @@
                     }}).addTo(map);
 
                     // Créer un menu déroulant pour les feature
-                    var select = L.control({position: 'topright'});
-                    select.onAdd = function(map) {
+                    var TourneeSelect = L.control({position: 'topright'});
+                    TourneeSelect.onAdd = function(map) {
                         var div = L.DomUtil.create('div', 'select');
-                        div.innerHTML = '<select id="features" style="padding: 5px"><option value="">Sélectionnez un cluster</option></select>';
+                        div.innerHTML = '<select id="features" style="padding: 5px"><option value="">Sélectionnez une tournée</option></select>';
                         return div;
                     };
-                    select.addTo(map);
+                    TourneeSelect.addTo(map);
 
                     // Ajouter des options au menu déroulant pour chaque feature
                     geojsonLayer.eachLayer(function(layer) {
                         var feature = layer.feature;
                         var option = L.DomUtil.create('option', '', document.getElementById('features'));
                         option.value = L.stamp(layer);
-                        option.innerHTML = feature.properties.cluster;
+                        option.innerHTML = "Cluster:"+feature.properties.cluster+"\t Tournée:"+feature.properties.num_tournee;
                     });
 
                     // Ajouter une option supplémentaire au menu déroulant
                     var option = L.DomUtil.create('option', '', document.getElementById('features'));
                     option.value = 'all';
-                    option.innerHTML = 'Afficher tous les clusters';
+                    option.innerHTML = 'Afficher toutes les tournées';
                     document.getElementById('features').add(option);
+
+
+                    // Créer un menu déroulant pour les clusters
+                    var clusterSelect = L.control({position: 'topright'});
+                    clusterSelect.onAdd = function(map) {
+                        var div = L.DomUtil.create('div', 'select');
+                        div.innerHTML = '<select id="cluster-select" style="padding: 5px"><option value="">Sélectionnez un cluster</option></select>';
+                        return div;
+                    };
+                    clusterSelect.addTo(map);
+
+                    // Récupérer la liste des clusters
+                    var clusters = [];
+                    geojsonLayer.eachLayer(function(layer) {
+                        var cluster = layer.feature.properties.cluster;
+                        if (!clusters.includes(cluster)) {
+                            clusters.push(cluster);
+                        }
+                    });
+
+                    // Ajouter des options au menu déroulant pour chaque cluster
+                    clusters.forEach(function(cluster) {
+                        var option = L.DomUtil.create('option', '', document.getElementById('cluster-select'));
+                        option.value = cluster;
+                        option.innerHTML = "Cluster "+cluster;
+                    });
+
+                    // Ajouter une option supplémentaire au menu déroulant
+                    var option_cluster = L.DomUtil.create('option', '', document.getElementById('cluster-select'));
+                    option_cluster.value = 'all';
+                    option_cluster.innerHTML = 'Afficher tous les clusters';
+                    document.getElementById('cluster-select').add(option_cluster);
+
+
 
                     // Ajouter un événement de changement pour le menu déroulant
                     document.getElementById('features').addEventListener('change', function() {
@@ -72,6 +111,7 @@
                         } else {
                             // Récupérer la couche GeoJSON correspondante
                             var layer = geojsonLayer.getLayer(this.value);
+                            var index = parseInt(layer.feature.properties.num_tournee);
                             
                             // Supprimer toutes les couches GeoJSON de la carte
                             map.eachLayer(function(layer) {
@@ -81,12 +121,66 @@
                             });
                             
                             // Ajouter la couche GeoJSON correspondant au feature sélectionné
-                            var selectedLayer = L.geoJSON(layer.feature).addTo(map);
+                            var selectedLayer = L.geoJSON(layer.feature, {
+                                style: function(feature) {
+                                    return { color: colors(parseInt(feature.properties.num_tournee)), weight: 2 };
+                            }}
+                            ).addTo(map);
                             
                             // Centrer la carte sur la couche GeoJSON correspondant au feature sélectionné
                             map.setView(selectedLayer.getBounds().getCenter(), 7);
                         }
                     });
+
+                    // Ajouter un événement de changement pour le menu déroulant du cluster
+                    document.getElementById('cluster-select').addEventListener('change', function() {
+                        var selectedCluster = this.value;
+                        if (selectedCluster === '') {
+                            // Afficher toutes les couches GeoJSON sur la carte
+                            geojsonLayer.addTo(map);
+                            // Centrer la carte sur toutes les couches GeoJSON
+                            map.fitBounds(geojsonLayer.getBounds());
+                        } else if (this.value === 'all') {
+                            // Afficher toutes les couches GeoJSON sur la carte
+                            geojsonLayer.addTo(map);
+                            
+                            // Centrer la carte sur toutes les couches GeoJSON
+                            map.fitBounds(geojsonLayer.getBounds());
+                        } else {
+                            // Supprimer toutes les couches GeoJSON de la carte
+                            var layer = geojsonLayer.getLayer(this.value);
+                            map.eachLayer(function(layer) {
+                                if (layer instanceof L.GeoJSON) {
+                                    map.removeLayer(layer);
+                                }
+                            });
+
+                            // Filtrer les features en fonction du cluster sélectionné
+                            var filteredFeatures = geojsonLayer.toGeoJSON().features.filter(function(feature) {
+                                return feature.properties.cluster == selectedCluster;
+                            });
+                            var filteredGeoJSON = { "type": "FeatureCollection", "features": filteredFeatures };
+                            // Créer une nouvelle couche GeoJSON pour les features filtrés
+                            var filteredLayer = L.geoJSON(filteredGeoJSON, {
+                                style: function(feature) {
+                                    return { color: colors(parseInt(feature.properties.num_tournee)), weight: 2 };
+                                },
+                                onEachFeature: function(feature, layer) {
+                                    // Ajouter un événement de clic pour chaque feature
+                                    layer.on('click', function() {
+                                        // Afficher la propriété cluster dans la console
+                                        console.log(feature.properties.cluster);
+                                    });
+                                }
+                            });
+                            // Ajouter la nouvelle couche GeoJSON à la carte
+                            filteredLayer.addTo(map);
+                            // Centrer la carte sur les features filtrés
+                            map.fitBounds(filteredLayer.getBounds());
+                        }
+                    });
+
+
                 } 
                 });
         </script>
