@@ -29,7 +29,6 @@
                 url: "../Clustering/test.geojson",
                 dataType: "json",
                 success: function(test){ 
-                    // L.geoJSON(test).addTo(map);
                     var geojsonLayer = L.geoJSON(test, {
                     onEachFeature: function(feature, layer) {
                         // Ajouter un événement de clic pour chaque feature
